@@ -32,10 +32,9 @@
 
 Nếu bạn muốn chạy từ mã nguồn Python:
 
-1.  **Clone dự án:**
+1.  **Tải dự án:**
     ```bash
-    git clone [https://github.com/username-cua-ban/mass-slide-generator.git](https://github.com/username-cua-ban/mass-slide-generator.git)
-    cd mass-slide-generator
+    tải main.py
     ```
 
 2.  **Cài đặt thư viện:**
@@ -63,6 +62,7 @@ Vào lịch sử bảo vệ của Antivirus, chọn file đó và bấm Restore 
 Thêm thư mục chứa file vào danh sách loại trừ (Exclusion list).
 
 Trường hợp 3: file chạy thành công !
+
 2.  **Bước 2 - Chọn Cấu Trúc:** Tại màn hình chính, tích chọn các phần lễ muốn soạn (VD: Nhập Lễ, Dâng Lễ, Hiệp Lễ...).
 3.  **Bước 3 - Tìm & Soạn Thảo:**
     * Nhập tên bài hát và nhấn **Tìm kiếm**.
@@ -70,10 +70,3 @@ Trường hợp 3: file chạy thành công !
     * Phần mềm sẽ tự tách đoạn. Tích chọn các phiên khúc muốn sử dụng.
     * Nhấn **Xác nhận & Tiếp** để sang phần tiếp theo.
 4.  **Bước 4 - Xuất File:** Sau khi hoàn tất các phần, nhấn **Xuất File PPTX** và chọn nơi lưu.
-
-## 🔨 Đóng Gói File EXE
-
-Để tạo file `.exe` chạy độc lập (không cần cài Python) có kèm icon:
-
-```bash
-pyinstaller --noconsole --onefile --icon=icon.ico main.py
