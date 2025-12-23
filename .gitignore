@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Selenium logs
+geckodriver.log
+chromedriver.log
+
+# VS Code settings
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# File kết quả (để tránh push file pptx cá nhân lên)
+*.pptx
