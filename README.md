@@ -1,4 +1,5 @@
-# Mass Slide Generator - Hệ Thống Soạn Lễ Tự Động --Develop by Nguyen Tien Dung
+# Mass Slide Generator - Hệ Thống Soạn Lễ Tự Động 
+*Develop by "Nguyen Tien Dung"*
 
 **Mass Slide Generator** là công cụ hỗ trợ soạn bài giảng PowerPoint cho Thánh Lễ Công Giáo. Phần mềm tự động hóa quy trình tìm kiếm lời bài hát, lấy bài đọc Lời Chúa hàng ngày và định dạng slide trình chiếu một cách chuyên nghiệp.
 
